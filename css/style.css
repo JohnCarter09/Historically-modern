@@ -1219,7 +1219,9 @@ fieldset[disabled] .s-btn {
 /* Trigger
 ------------------------------ */
 .s-header__trigger {
-  position: relative;
+  position: absolute;
+  top: 30px;
+  right: 30px;
   z-index: 9999;
   width: 3.125rem;
   height: 3.125rem;
